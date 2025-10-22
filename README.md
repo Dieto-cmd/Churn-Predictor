@@ -4,7 +4,7 @@
   After submitting queries predictions we were given scores. Ultimately I achived the best result with AdaBoost Classifier (ROC AUC score was used as a metric) and earned me a 2nd place in the class.
 The whole project was written in python using: **pandas**, **numpy**, **scikit-learn**, **seaborn** and **matplotlib** libraries.
 
-Conclusion
+Conclusion<br />
 Scores that each Classifier achived:
 
 AdaBoost score: 0.84695 <br />
