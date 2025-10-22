@@ -4,4 +4,14 @@
   After submitting queries predictions we were given scores. Ultimately I achived the best result with AdaBoost Classifier (ROC AUC score was used as a metric) and earned me a 2nd place in the class.
 The whole project was written in python using: **pandas**, **numpy**, **scikit-learn**, **seaborn** and **matplotlib** libraries.
 
+Conclusion
+Scores that each Classifier achived:
+
+AdaBoost score: 0.84695
+Neural Net score: 0.84313
+SVM linear kernel score: 0.83679
+SVM polynomial kernel score: 0.83172
+SVM rbf kernel score: 0.83231
+SVM sigmoid kernel score: 0.83681
+
 
