@@ -7,11 +7,11 @@ The whole project was written in python using: **pandas**, **numpy**, **scikit-l
 Conclusion
 Scores that each Classifier achived:
 
-AdaBoost score: 0.84695
-Neural Net score: 0.84313
-SVM linear kernel score: 0.83679
-SVM polynomial kernel score: 0.83172
-SVM rbf kernel score: 0.83231
-SVM sigmoid kernel score: 0.83681
+AdaBoost score: 0.84695 <br />
+Neural Net score: 0.84313<br />
+SVM linear kernel score: 0.83679<br />
+SVM polynomial kernel score: 0.83172<br />
+SVM rbf kernel score: 0.83231<br />
+SVM sigmoid kernel score: 0.83681<br />
 
 
